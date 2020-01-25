@@ -1,0 +1,10 @@
+insert into customer(id,firstName,lastName,city,country,phone) values (101,'saood','rahman','pwh','pakistan','03369633253');
+insert into customer(id,firstName,lastName,city,country,phone) values (115,'zahid','ullah','beg','china','03369633253');
+insert into customer(id,firstName,lastName,city,country,phone) values (102,'ali','khan','pwh','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (103,'Muhammad','khan','pwh','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (104,'mashood','rahman','pwh','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (108,'hamood','rahman','pwh','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (106,'zaid','ali','isl','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (107,'muneeb','raza','lah','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (109,'ali','khan','pwh','pakistan','03369637895');
+insert into customer(id,firstName,lastName,city,country,phone) values (110,'bould','zani','asd','uk','03369637895');
